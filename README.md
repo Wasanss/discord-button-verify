@@ -1,6 +1,7 @@
 + 토큰이랑 역할넣고 쓰세요!!!!!!!!!!!!!!!
 
 + 버튼 가로로 나오게 하는법
+
 Button(style = 1, label = asdf), Button(style = 3, label = asdf2) 이 부분을
 
 [Button(style = 1, label = asdf), Button(style = 3, label = asdf2)] 이렇게 바꾸면 댐
