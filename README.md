@@ -5,7 +5,9 @@ Button(style = 1, label = asdf), Button(style = 3, label = asdf2) 이 부분을
 [Button(style = 1, label = asdf), Button(style = 3, label = asdf2)] 이렇게 바꾸면 댐
 
 + 버튼 색 바꾸는법
+
 ㄴ style = 1 이 부분의 숫자를 바꾸면 댐
+
 ㄴ 1 = 파랑, 2 = 초록, 3 = 회색, 4 = 빨강
 
 + 라이센스는 WTFPL이니 그냥 막 쓰세요!!!!! 돈받고 팔거나 그냥 막 쓰셈!!!!!!
