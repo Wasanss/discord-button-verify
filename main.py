@@ -9,6 +9,8 @@ bot = Bot(command_prefix = "!")
 
 bot.remove_command('help')
 
+token = '토큰'
+
 @bot.event
 async def on_ready():
     DiscordComponents(bot)
@@ -71,4 +73,4 @@ async def 인증(ctx):
         await ctx.channel.purge(limit=1)
 
 
-bot.run('토 큰')
+bot.run(token)
